@@ -417,6 +417,36 @@
                 transform: scale(1);
             }
         }
+
+        /* ═══════════════════════════════════════════════
+   RESPONSIVENESS (Mobile Tweaks)
+   ═══════════════════════════════════════════════ */
+        @media (max-width: 480px) {
+            .content-box {
+                padding: 15px;
+            }
+
+            .text-content {
+                font-size: 1rem;
+            }
+
+            #roseTrail {
+                right: 8px;
+            }
+
+            .trail-dot {
+                width: 8px;
+                height: 8px;
+            }
+
+            #finalMessage h2 {
+                font-size: clamp(1.8rem, 8vw, 2.5rem);
+            }
+
+            .final-text-area {
+                font-size: 1.1rem;
+            }
+        }
     </style>
 </head>
 
