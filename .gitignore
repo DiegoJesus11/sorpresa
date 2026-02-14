@@ -1,0 +1,28 @@
+# Solo subir archivos con nombres web-safe
+# Ignorar archivos originales con nombres largos
+*.md
+musica.webm
+
+# Ignorar fotos originales con nombres largos (con espacios)
+lo encantadora*
+nuestra primera*
+de nuestras primeras*
+en la U*
+en el break*
+como me encanta esa carita*
+en nuestra visita*
+foto random*
+Aqui en hallowen*
+disfrutando*
+como disfrutaba*
+durmiedno*
+en visperas*
+intentando seguir*
+aqui nos salio*
+atrapado pero*
+como me encanta esa sonrisa*
+de las fotos*
+foto del primer*
+intentando replicar*
+tú toda alegre*
+visitando las tiendas*
